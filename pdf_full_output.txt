@@ -1,0 +1,749 @@
+﻿Total pages: 15
+
+================================================================================
+PAGE 1
+================================================================================
+LEVERAGING WEB 3.0 TECHNOLOGIES TO
+ACHIEVE EFFICIENT DIGITAL COMMERCE:
+STRUCTURAL DESIGN, CONSEQUENCES, AND
+ROLE OF AGENTIC AI.
+1Mr. Pranesh P. Naik, 2Dr. G. T. Thampi
+1 Research Scholar, 2 Principal,
+Information Technology
+Thadomal Sahani College of Engineering (TSEC), Mumbai, India
+Abstract
+The high growth rate of digital commerce has unveiled the structural vulnerability of web 2.0 ecosystems, where centralized control,
+distributed data ownership and opaque transactions are distrustful of transparency and scalability. The new platform provided by Web 3.0
+technologies is based on decentralization, semantic connectivity, and autonomous intelligence that provide more resilient and adaptable
+commercial networks.
+In this study, the authors present, the Decentralized Efficiency Commerce Model (DECM) that aims to re-orient digital-commerce activities
+towards the concepts of Web 3.0. DECM combines blockchain as a means of distributed verification, decentralized identity (DID) for user
+sovereignty, semantic web standards for cross-platform interoperability and tokenization as a means of programmable asset exchange. At the
+heart of it is an Agentic Artificial Intelligence (AI) layer that is orchestrating the negotiation, pricing, and compliance autonomously in the
+peer-to-peer markets.
+DECM follows the principles of a Design-Science Research methodology and is implemented in the form of simulated smart contract
+execution and multi agent interactions. The efficiency is measured in five domains which include transactional, computational, governance,
+cognitive and environmental domains. Findings show that up to 65% improvements in latency and more than 40% in energy have been achieved
+with quantifiable benefits in transparency and trust.
+The contribution of the study is a comprehensive Web 3.0 - Agentic AI reference architecture of efficiency oriented digital commerce and
+future research directions on cross chain orchestration, zero knowledge privacy and sustainability aligned governance in the decentralized
+economies.
+Keywords -Web 3.0, Digital Commerce, Agentic AI, DECM, Blockchain, DID, Semantic Interoperability, Closed loop Efficiency,
+Sustainability
+Introduction
+The digital commerce has been radically reshaped within the last 20 years and is now more complex and data-driven, featuring online
+storefronts that have evolved into multifaceted and interconnected ecosystems that support global trade. By the end of 2025, the volume of e-
+commerce transactions will reach more than US $7.3 trillion annually, and the platforms such as Amazon, Alibaba, and Shopify will conquer
+markets with centralized architecture that is convenient and optimized toward scale and convenience(Statista, 2025). Yet despite this seeming
+efficiency comes a structural weakness, an overreliance on intermediaries, dispersed control of data and obfuscated processes that limits both
+to transparency and scalability. Intermediary charges generally eat 15-30% of every transaction, data breaches had revealed 2.6 billion user
+records in 2024 (IBM Security, 2025), outages in the system have proven repeatedly that this is a single point of failure. These trends are the
+alerts of the necessity of the reinvention of architectural practice that will heal the lack of trust and reestablish the balance between efficiency
+and autonomy.
+1.1 Motivation, Objectives, and questions of the research.
+The rationale behind the research is the fact that centralized commerce has always had its inefficiencies, which have not yet been overcome
+with the deployment of Web 3.0 technologies. Even the common online transaction in the present time is still reliant on opaque recommendation
+algorithms and third-party payment processors as well as proprietary ledgers all sources of friction, cost, and cognitive overhead. Users give
+up data - if not the agency - and platforms take profits from asymmetric control.
+Although there have been decentralized alternatives, there are a lot of duplicating legacy workflows on blockchain rails without needing to
+redesign the underlying logic. The outcome would be a low level of performance improvement with no system efficiency. This lack of high-
+tech tools is hence not the core research gap but the lack of a common architecture that can help align the aggregate potential of Web 3.0
+technologies through autonomous coordination at the intelligent level.
+This paper proposes the idea of Decentralized Efficiency Commerce Model (DECM), which is a Web 3.0 synchronized architecture where
+Agentic AI serves as the cognitive orchestrator of decentralized processes. DECM brings together four basic technologies:
+1. Blockchain for unchangeable and distributed verification,
+2. Decentralized Identity (DID) of Self sovereign authentication,
+3. Semantic Web Standards for Cross platform data interoperability,
+4. Tokenization for Fractionalized and programmable assets
+At its core, an Agentic AI orchestration layer understands on chain data, can make predictions about market conditions, and the ability to
+dynamically optimize cost, latency, and carbon efficiency.
+Thus, the study has three directing questions:
+ΓÇó RQ1: What is the impact of Web 3.0 primitives blockchain, DID, semantics and tokenization on efficiency in digital commerce
+systems individually and collectively?
+ΓÇó RQ2: What architecture mechanisms allow smoothing out orchestration of decentralized workflows and how does Agentic AI become
+the unifying mechanism?
+1
+
+================================================================================
+PAGE 2
+================================================================================
+ΓÇó RQ3: How far can DECM maintain the efficiency gains in terms of transactional, computational, governance, cognitive, and
+environmental levels, in different market conditions?
+1.2 Significance of the Research and its contributions.
+The following three contributions in the study develop theory and practice:
+1. Architectural Innovation:
+DECM provides the first standardized reference model and combines the entire Web 3.0 stack and Agentic AI orchestration. Unlike isolate
+applications (e.g. NFT's, DeFi exchanges, etc.) it offers a modular blueprint that can be adapted in many contexts including B2C, B2B and
+peer-to-peer applications.
+2. Multi- dimensional Efficiency Framework:
+Efficiency has been re-defined in five areas of interaction that are transactional (cost and latency), computational (resource use), governance
+(fairness and autonomy), cognitive (decision quality and learning), and environment (energy and emissions).
+3. Design Science Empirical validation:
+Using the Design Science Research paradigm, DECM is modelled and experimented with the help of smart contract simulation and multi-
+agency coordination, producing reproducible empirical findings on the efficacy of architecture.
+1.3 Scope and Structure
+The paper is focused on efficiency-based digital commerce ecosystems in proof of stake (PoS) settings to support the notion of sustainability.
+The offline retail operation and the physical logistics are beyond the research scope.
+The rest of the paper has the following structure:
+Section 2 Examines the previous literature on the development of Web 1.0, Web 2.0 and Web 3.0 and outlines the gaps in integrations.
+Section 3 Explains the approach Design Science methodology.
+Section 4 Describing the DECM architecture and feedback mechanism.
+Section 5 Simulation results and analyses of the efficiency are reported in.
+Section 6 deals with implications, theoretical framing and limitation.
+Section 7 offers future projections of Web 3.0 native commerce.
+With this systematic exploration, the research will not only be an attempt to model a more efficient digital commerce system, but a map
+toward a sustainable, cognition-driven process in which technological autonomy enhances human agency, as opposed to institutional
+dominance.
+The DECM architecture can be thought of as five concurrent layers of integration: blockchain-based trust mechanisms, decentralized identity,
+semantic interoperability, agentic-AI orchestration, application logic, and governance-driven feedback loops. This layering model makes
+DECM a modular, extensible Web 3.0-native commerce stack.
+Figure 1. Stacked architecture of the Decentralized Efficiency Commerce Model (DECM)
+2. Literature Review
+2.1 From Web 1.0 to Web 2.0: The Centralization Trap
+The commercial internet has passed through different stages. The former, referred to as Web 1.0 was like online brochures where firms were
+able to include only information about their products. The Web 2.0 (O'Reilly, 2005) changed this picture by introducing interactivity.
+The result of this development was what Laudon and Traver (2023) refer to as the ΓÇ£Centralization TrapΓÇ¥. A paradox in which network
+efficiency and systemic fragility coexists. Network externalities which previously facilitated innovation brings the power law concentration
+where few dominant companies gain disproportionate value and get outsized economic advantage (Barabasi, 2023). In 2024, the seven
+2
+
+================================================================================
+PAGE 3
+================================================================================
+corporations dominated about 70% of the world cloud storage (Gartner, 2024), which provided them almost surveillance knowledge about the
+user behaviour.
+Efforts to retrofit centralized platforms using blockchain have not been met with good results. The efficiency of Web 2.0 is contingent, and
+therefore not inalienable, based on institutional trust as opposed to transparent design, which is increasingly unsustainable offer in a data
+sovereign economy.
+2.2 Web 3.0 Primitives: Four Pillars and the Missing Orchestrator
+Web 3.0 aims at breaking these dependencies by decentralizing, semantic intelligent and autonomous coordination. This paradigm has four
+pillars of foundation as pointed out by the literature, although in the majority of the studies they are studied separately.
+Table 1 : The Four Pillars of Web 3.0: Isolated Gains and the Missing Orchestration Layer
+Pillar Illustrated Efficiency Gain Persistent Limitation / Missing Link
+Blockchain & Smart Settlement time Γåô from 3.2 days ΓåÆ 8 s (Gupta et al., No adaptive feedback; limited learning
+Contracts 2024) capacity
+Decentralized Identity (DID) KYC cost Γåô Γëê 80 % (W3C DID v1.0, 2022) Not integrated with dynamic market pricing
+Semantic Web & Linked +300 % catalogue reach (Berners-Lee et al., 2021) Absent live negotiation or agent
+Data interoperability
+Tokenization & DeFi Γëê 97 % lower fees than Stripe (Uniswap v4, 2025) Tokens rarely used for governance feedback
+Protocols
+Blockchain and Smart Contracts -- Transactional Efficiency.
+It was the brainchild of Nakamoto (2008) and perfected by Buterin (2014) to eliminate the necessity of trusted clearing houses since
+blockchain kept immutable and auditable histories. The research on logistics and finance records a reduction of 60 to 80% in the settlement
+latency (Chen et al., 2024). However, such systems follow deterministic rules instead of adapting based on results and are therefore less
+adaptable.
+Decentralized Identity (DID) - Governance and Efficiency of Security.
+W3C DID 1.0 standard (2022) shifts the identity administration off corporation servers onto self-sovereign wallets (Allen, 2016). The pilots
+in cross-border minimized the time onboarding by several minutes to seconds (EU Blockchain Observatory, 2024). Nevertheless, the identity
+data is still static input as opposed to being variable in the dynamic market logic, which shows an integration gap between the governance and
+adaptive pricing.
+Semantic Web and Linked Data - Cognitive Efficiency.
+Semantic standards like RDF and OWL also allow the algorithms to infer relationships to enhance precision in retrieval by almost 30%
+(Sheikh and Khan, 2023). Live commerce deployments are however uncommon. In the absence of semantic interoperability, autonomous
+agents are incapable of negotiating and assessing intent equivalence, which limits scalability.
+Market and Resource Efficiency Tokenization and DeFi.
+The process of tokenization transforms assets into programmable units of value and the decentralized exchanges such as Uniswap v4 have
+transaction fees as few as 0.3% (2025). However, tokens are usually used for payments but not for feedback or signalling governance.
+Seemingly, these four pillars provide technical trust, but still lacks a cognitive orchestrator which can ensure that these pillars are synchronized
+together. Recent reviews suggest the need to have an intelligent coordination layer which interprets cross pillar information, balancing
+competing goals, and learns based on performance, which Agentic AI is well positioned to execute.
+2.3 Agentic Artificial Intelligence: From Assistants to Orchestrators
+Artificial intelligence has developed from a rule-based expert systems to being an autonomous and goal driven agents. The newest level of
+AI, which is Agentic AI perceives the surrounding environment, plan actions and learn in an iterative process (Wooldridge, 2024). They take
+automation further in commerce into the direction of adaptation.
+Empirical milestones can be used to describe this change: Chainlink Functions (2023) is capable of on chain inference with an integration of
+LLMs; Autonolas (2024) has deployed multi agent markets which has almost 41% faster price convergence on Polygon than human mediated
+Shopify listings. In spite of this advancement, AI is still marginal, contained in suggestions or chatbots, but not integrated into the Web 3.0
+stack as a system coordinator.
+This orchestration problem is viewed through the prism of Complex Adaptive Systems (CAS) theory (Holland, 2014): the dynamic of the
+market is decentralized, and the overall interaction of the networks is what produces emergent order. It should be used, together with Design
+Science Research (Hevner and Gregor, 2023), in order to have conceptual and methodological justification of constructive experimentation.
+Under this prism, the Agentic AI can read on chain signals, predict demand, optimize liquidity, and enforce compliance, turning static ledgers
+into learning economies.
+2.4 Efficiency Frameworks and Five Blind Spots.
+Conventionally used efficiency measures: transactions per second, cost per sale include speed but do not measure flexibility. Multi-
+dimensional models have developed, most of which are open loop: they are measured post-hoc and not in operation. The architecture used in
+most cases optimizes the static parameters. To give an example, the rebalancing of DeFi liquidity pools only occurs on predetermined periods,
+and supply-chain blockchains do not engage in adaptive control of energy. The Decentralized Efficiency Commerce Model (DECM) relays
+efficiency as a process of self-correction, every measure feeds back to an Agentic AI layer which autonomously optimises rules and incentives
+makes throughput optimization a learning process that is sustainable.
+2.5 Positioning DECM: Addressing the Void of Orchestration.
+In a bibliometric survey of 2,400 Web 3.0 commerce papers (Scopus, Oct 2025), it is found that there are no integrated models that integrate
+all the four pillars with an intelligent coordination layer. Blockchain studies are based on trust and immutability; semantic web literature is
+centred on ontology; tokenization is based on liquidity; and AI is analytical but not autonomous. This scaling hinders inter domain learning
+and scaling.
+The Decentralized Efficiency Commerce Model (DECM) manages this orchestration void by:
+1. Aligning blockchain, DID, semantics and tokenization in a single architecture.
+2. Making Agentic AI Layer 3 to create adaptive negotiation, predictive pricing, and self-regulating governance.
+3. Assessing five close-loop efficiency dimensions rather than transactional metrics in a static state.
+3
+
+================================================================================
+PAGE 4
+================================================================================
+The figure follows the conceptual development of the Web 2.0 centralization trap into individual Web 3.0 silos and restricted Agentic AI add
+ons. It points out the orchestration gap the missing mindset connecting technological primitives and autonomous coordination. DECM bridges
+this disparity with closed loop efficiency in which feedback of transactional, computational, governance, cognitive and environmental measures
+initiate continuous optimization.
+By doing so, DECM rethinks efficiency as a state of emergence, which is maintained by the continued feedback, rather than post hoc
+measurement. It is operationalized (Section 3) through a Design Science Research paradigm by modelling 10,000 transactions of agents on
+Polygon Mumbai to empirically test the existence of multi-dimensional enhancements.
+Figure 2. Evolution of the Research Gap Leading to DECM.
+2.6 Summary and Theoretical Positioning.
+There are three main insights that the literature brings together:
+1. Web 3.0 technologies are at the mature stage, but they are disintegrated, thereby increasing efficiency at an individual level but not
+orchestrated.
+2. The current structures have a reactive nature which evaluate the outputs without self-corrective mechanisms.
+3. The missing cognitive layer is provided by agentic AI which transforms decentralized systems and makes them adaptive learning
+networks.
+DECM is built upon these studies, operating as both a technological artifact and a theoretical model, providing an architecture for digital
+commerce ecosystems that are trust-less but trusted, distributed yet coordinated, and efficient by design, due to the inclusion of feedback,
+cognition and governance as part of interdependent loops.
+3. Methodology
+3.1 Methodological framework
+The study uses the Design Science Research (DSR) methodology, to advance knowledge using the creation and evaluation of artifacts, i.e.,
+architectures, and systems. (Hevner et al., 2004; Gregor & Hevner, 2023). In this context, DECM works as both (i) an architectural artifact
+and (ii) an empirical test bed, demonstrating the efficiency gained from synchronized decentralization and cognitive orchestration.
+As per Peffers et al. (2007), the research cycle included six iterative processes: problem identification, objective definition, design and
+development, demonstration, evaluation, and communication. The first two are covered in Section 1; the last four are described below in
+relation to DECM. Therefore, the methodological goal is twofold: to create a verifiable artifact and to demonstrate how the integration of Web
+3.0 with Agentic AI can
+reshape efficiency in Digital Commerce.
+3.2 Designing Artefacts
+DECM was developed as an actual working reference architecture as opposed to simply a conceptual one. Three principles informed the
+design of the architecture:
+1. Layered modularity. Each one of the four pillars of Web 3.0, blockchain, decentralized identity (DID), the semantic web, and tokenization
+represents a distinct, although compatible, layer (see Figure 1). The modularity of the layers permits selective advancement and fault
+containment.
+2. Agentic orchestration. A distinct Agentic AI layer was designed and developed to function as the cognitive supervisor and to which the
+lower layers would give write access. It decoded telemetry data, executed pricing negotiations, token/fee distribution, and rule enforcement to
+transform discrete automation into an active compliance intelligence. These principles make it possible to construct, test, and expand DECM
+in multiple environments of d-commerce.
+3. Closed loop efficiency. Each transaction provides feedback which the AI layer must reprocess prior to the expiry of the same block
+confirmation window (approximately 12 seconds in Polygon), allowing efficiency to be sustained from ongoing learning. These principles
+ensure the DECM remains buildable, testable, and extensible to multiple contexts of d-commerce.
+4
+
+================================================================================
+PAGE 5
+================================================================================
+3.3 Technology stack and implementation
+Component choices were based on interoperability, sustainability and reproducibility.
+Table 2 : Technology Stack and Implementation Components of the DECM Framework
+LAYER TECHNOLOGY / PROTOCOL RATIONALE
+LEDGER & INFRASTRUCTURE Polygon Mumbai Testnet + IPFS (Pinata) Energy efficient, persistent storage for smart
+contracts and metadata.
+IDENTITY & SEMANTICS W3C DID v1.0 + Veramo SDK + Verifiable credentials and machine-readable
+RDF/OWL (Apache Jena) catalogues.
+AGENTIC AI ORCHESTRATION LangChain + OpenAI GPT-4o + Chainlink Goal directed reasoning, on chain data access, and
+Functions contextual negotiation.
+APPLICATION LAYER (D- Solidity v0.8.24 + Hardhat + React dApp Smart contracts and a user interface for simulated
+COMMERCE) marketplace operations.
+FEEDBACK & GOVERNANCE The Graph Subgraphs + Snapshot DAO Real time indexing of contract events and
+community based off chain voting.
+Point of integration to a smart contract (DECMCore.sol (excerpt))
+Each suggested trade causes an invocation of ai.evaluate(), which leads to perception-reasoning-action, and sends any policy changes back
+to contracts - DECM's key departure from static protocols.
+Why Polygon Mumbai? We chose Mumbai due to its PoS energy profile, mature tooling of EVM, steady public RPC availability and almost
+non-existent transaction value on repeated experiments.
+3.4 Simulation protocol
+To test DECM empirically we created a three-phase simulation in the same type of market conditions (Figure 3). Each phase processes 10,000
+synthetic transactions Phases are identical replicas (30 times - Monte-Carlo) for robustness. Randomization seeds and configuration files are
+incorporated in the reproducibility pack (Section 3.8).
+Descriptions of the Phase & Metrics
+ΓÇó Phase 1: Baseline (Web 2.0) : 10,000 transactions using Shopify sandbox API. Metrics: Latency, cost, carbon (AWS Carbon Footprint
+Tool);
+ΓÇó Phase 2: DECM Full (Web 3.0 + agentic AI). 10,000 transaction Polygon Mumbai, 100 Buyer agent & 100 seller agent (LangChain)
+After every 500 transactions, there is a demand shock. Metrics: measures for each of the five dimensions of efficiency per transaction
+ΓÇó Phase 3: Ablation. Re-run Phase 2 with (a) removal of agentic-AI layer and (b) replacement of agentic-AI layer with rule bot.
+Outcome: Degradation in learning and performance
+5
+
+================================================================================
+PAGE 6
+================================================================================
+Figure 3. Simulation protocol for DECM evaluation
+Each phase performs an equal amount of work, measures five dimensions of efficiency (which include Transactional (T), Computational (C),
+Governance (G), Cognitive (Cog), and Environmental (Env), aggregates these to a composite E-score and submits results to statistical tests to
+ensure significance and effect size.
+Table 3 - Three-Phase Simulation Protocol for DECM Evaluation
+Phase Description Key Metrics Recorded
+Phase 1: Baseline 10000 transactions executed on the Shopify Latency, cost, and carbon metrics
+(Web 2.0) sandbox API. via AWS Carbon Footprint Tool.
+Phase 2: DECM 10000 transactions on Polygon Mumbai with Efficiency dimensions logged per
+(Web 3.0) 100 buyer and 100 seller agents (LangChain). transaction (see Table 4).
+Randomised demand shocks every 500
+transactions.
+Phase 3: Ablation Rerun simulation after (a) removing the Measures degradation in
+Tests Agentic AI layer, (b) replacing it with a rule- performance and learning feedback.
+based bot.
+3.5 Measuring and composite evaluation of efficiency
+Derived from Section 2.4, efficiency is measured in 5-dimensions using instrumented variables.
+Table 4. Five-Dimensional Efficiency Measurement Model for DECM Evaluation
+Dimension Measurement Variables Tool / Metric Expected
+Improvement
+Transactional Confirmation time, gas cost per tx Hardhat Tracer Γëñ 65 % latency
+reduction
+Computational CPU cycles, memory load Hardhat Profiler + Grafana Γëê 40 % energy saving
+Governance Verification success rate, dispute resolution W3C DID logs + DAO vote events > 30 % faster settlement
+time
+Cognitive Agent price deviation from Nash equilibrium LangChain logs + Q-learning rewards Γëñ 20 % error reduction
+Environmental Energy and carbon per transaction CodeCarbon library + CBEM model ΓëÑ 70 % lower footprint
+(2025)
+Composite equation of efficiency.
+It is through this aggregation of indicators, embodied in an AHP weighted index (12 expert raters; CronbachΓÇÖs ╬▒ = 0.91): that we are able to
+get:
+≡¥æ¼ = ≡¥Æÿ ≡¥æ╗ΓêÆ≡¥ƒÅ +≡¥Æÿ ≡¥æ¬ΓêÆ≡¥ƒÅ +≡¥Æÿ ≡¥æ«+≡¥Æÿ (≡¥ƒÅΓêÆ≡¥æ½)+≡¥Æÿ (≡¥ƒÅΓêÆ≡¥æ╡)
+≡¥ƒÅ ≡¥ƒÉ ≡¥ƒæ ≡¥ƒÆ ≡¥ƒô
+where T = latency, C = compute load, G= governance trust (0-1) and D=cognitive deviation, N=normalized carbon intensity. Weights (w) are
+given in Appendix A. This formulation considers efficiency to be a multifactor, feedback-driven formulation instead of a scalar.
+3.6 Evaluation and validation
+We combined formative, summative and robustness evaluations:
+(a) Formative - Three experts in blockchain, AI technologies, and sustainable computing evaluated Early Build. Input from feedback resulted
+in adjusting the reward weights of the RL (Reinforcement Learning agent) and streamlining the orchestration loop to minimize on-chain calls
+(b) Summative - We analysed each phase against the Baseline phase using paired t-tests (parametric) and Wilcoxon signed-rank tests (non-
+parametric). The effect size is presented for quantiles using Cohen's d, and ANOVA, results are detailed for each replication
+(c) Robustness - We introduced latency spikes (+-300 %), drops in agents, and +-40 % demand shocks. the DECM Full configuration
+recovered >_ 99 % throughput in ~8 blocks (95 s on average) showing closed-loop stabilization.
+(d) DSR rigour mapping (Hevner) Implementation in DECM Study
+6
+
+================================================================================
+PAGE 7
+================================================================================
+ΓÇó Design as artefact :- public repository with source and build scripts.
+ΓÇó Problems relevance: To deal with measurable inefficiencies within existing d-commerce ecosystems.
+ΓÇó Design evaluation. 30 x 10000 simulations in 3 phases.
+ΓÇó Research Contributions: Section 1.3 (architecture, efficiency framework, empirical validation).
+ΓÇó Research rigour : Transparent pipeline Reproducible environment.
+ΓÇó Design as search: Iterative tuning of agent policies and gas scheduling.
+This mapping portrays the methodological compliance to a set of already existed criteria in the field of DSR, but also a proof of engineering
+reproduction.
+3.7 Ethics, Responsibility and Sustainability Controls
+The study was given the green light by the ethical standards of the institutions (Ref. DC-2025-W3). All data are synthetic - i.e., no personal
+identifiers are used. The DID framework follows the principle of GDPR article number 25 (privacy by design) Framework and India's DPDP
+Act (2023) Environmental accounting is in line with the SDG9 and SDG12. Proof-of-Stake Experiments use ~0.018 Wh of energy per
+transaction (orders of magnitude less than possessing PoW alternatives). Tokenized carbon credits offer a built-in offset ledger that has an
+operational metric tied to it.
+3.8 Events of reproducibility and limitations
+Reproducibility pack. A Docker (fully containerized environment) includes Hardhat + LangChain + Polygon RPC node; seed CSV of 10,000
+transactions (deterministic reruns); Monte-Carlo scripts; Jupyter Notebook; and Dependencies - requirements locked to .txt Licensing: MIT.
+Boundary conditions. Simulations abstract other behavioural heterogeneity, Regulatory friction and real mainnet congestion. Energy metrics
+are not metered on hardware, but model based. The agentic-AI reward function may focus on the short-term convergence. Future work should
+go further in the Interest of cross chain pilots DAO curated Datasets and Human in the Loop Experiments.
+3.9 Methodological synthesis
+DSR links the modelling of concepts and computational demonstration. DECM evolves from a theoretical foundation to a functional artifact,
+confirmed via human supervision and quantitative simulations. By Embedding feedback, autonomy and sustainability into one governance
+loop, the method promotes research for Web 3.0 beyond decentralization at the infrastructure level towards cognitive efficiency, a self-
+optimizing equilibrium of technological performance, institutional and trust.
+4. Design and Development of Decentralized Efficiency Commerce Model (DECM)
+4.1 Design rationale
+The Decentralized Efficiency Commerce Model (DECM) was conceptualized specifically to put in practice the transformative logic of Web
+3.0 decentralization, semantic interoperability, and autonomous intelligence in a digital commerce environment. It is directly aiming at the
+void of orchestration mentioned in the Section 2.5 in which existing frameworks have failed to unite the 4 technological pillars of Web 3.0
+using adaptive cognition.
+Three meta principles informed the formulation of the model:
+1. Interoperability by design :- Each of the pillars of Web 3.0 (Blockchain, DID, Sematic, Tokenization) is a modular and API exposed
+layer, which allows flexibility to integrate modules and individual evolution.
+2. Cognitive orchestration :- A key Agentic-AI layer oversees transactional conditions, anticipates ideal actions, and implements policy
+through smart contracts, thus converting automation into flexible reasoning
+3. Closed-loop efficiency :- Every transaction creates telemetry stream that goes back to the AI layer transforming efficiency from static
+metric to self-learning process.
+Together, these principles rediscover efficiency as a property of continuous adaptation of the concerned system and not an optimization that
+must be achieved at one time.
+4.2 Conceptual architecture
+DECM has five functional layers that combine blockchain trust mechanisms with cognitive automation.
+Layer 1: Ledger & Infrastructure ΓÇô Polygon PoS, IPFS
+Layer 2: Identity & Semantics ΓÇô W3C DID, RDF/OWL
+Layer 3: Agentic AI Orchestration ΓÇô GPT-4o, LangChain, Chainlink
+Layer 4: Application (dCommerce Interface) ΓÇô Smart Contracts, User Wallets
+Layer 5: Feedback & Governance ΓÇô The Graph, Snapshot DAO).
+7
+
+================================================================================
+PAGE 8
+================================================================================
+Figure 4. Actual Architectural flow of the Decentralized Efficiency Commerce Model (DECM).
+This tiered structure ensures interoperability and extensibility: each layer develops autonomously yet stays semantically aligned through the
+cognitive core.
+4.3 Design process
+In accordance with the Design Science Research methodology (Hevner et al., 2004; Peffers et al., 2007), DECM developed in three iterative
+cycles:
+1. Relevance cycle - Mapping problems
+Merchant inefficiencies were identified, average platform fees is 18%, delays in settlements, and losses related to outage.
+2. Design cycle - Construction of artefact
+A working prototype was built in Hardhat + Solidity combining ERC-1155 multi token logic with LangChain multi agent orchestration.
+3. Rigour cycle - Evaluation
+The prototype was benchmarked against the Web 2.0 baselines using simulation and statistical validation.
+The consecutive iterations improved semantic mappings, governance events, and the AI decision-making process until the effort reached the
+point where it was based on pre-rendered efficiency standards.
+4.4 Smart-contract layer
+The DECMCore.sol contract packages negotiation on the blockchain and artificial intelligence evaluation.
+Design highlights
+ΓÇó ERC-1155 supports hybrid tokenized assets.
+ΓÇó IAgenticAI.evaluate() connects deterministic contract logic with probabilistic reasoning.
+ΓÇó Event logs produce governance trails that are auditable in nature guaranteeing traceability and compliance.
+4.5 Agentic-AI layer
+The orchestration engine runs off chain, listens to Deal Proposed events and executes three cognitive stages:
+1. Perception- Parses contextual metadata (price, buyer-seller DDI, carbon footprint, latency).
+2. Reasoning - Implements multi objective optimization of speed, cost, trust, sustainability.
+3. Action - Returns a signed assessment to the blockchain through the evaluate() event.
+This distributed agent framework supports emergent equilibria of negotiation as well as adaptive market clearing which is lacking in
+centralized systems.
+4.6 Governance as well as feedback loop
+Each transaction has a telemetry (latency, gas, governance state, cognitive deviation and carbon intensity). These data are indexed via The
+Graph and visually presented on a DAO dashboard, to continuously tune the parameters via Agents AI layer.
+Figure 5A. Closed loop feedback cycle in DECM
+8
+
+================================================================================
+PAGE 9
+================================================================================
+(1) Transaction Execution ΓåÆ (2) Telemetry Generation ΓåÆ (3) Data Indexing & Governance Dashboard ΓåÆ (4) Agentic AI Analysis & Learning
+ΓåÆ (5) Parameter Optimization ΓåÆ (6) Smart-Contract Update ΓåÆ feeds back to (1).
+The cycle converts static indicators of efficiency into dynamic and self-optimizing processes which maintain equilibrium even under variable
+load conditions.
+4.7 Simulation protocol
+The validation used three controlled experimental phases:
+Table 5 - Three-Phase Simulation Protocol and Experimental Configurations
+Phase Environment Configuration Key Metrics
+Baseline (Web 2.0) Shopify sandbox API Centralized control Latency, cost, carbon
+DECM Full (Web 3.0 + AI) Polygon Mumbai 200 autonomous agents Five efficiency dimensions
+Ablation (No AI) Polygon Mumbai Rule-based bot Degradation in learning feedback
+All phases went through 10,000 processed transaction each, recording transactional, computational, governance, cognitive and environmental
+data for composite-score derivation. Detailed efficiency outcomes are summarized in Table 8.
+4.8 Interpretive discussion
+(1) Cognitive synergy. Agentic-AI uses decentralized infrastructure to make learning organisms work together in real time with
+blockchain-based pricing, compliance, and sustainability decisions.
+(2) Governance evolution. Adaptive quorum detection cuts the voting time of the DAO by almost 30%, indicating the transition from
+static to cognitive governance.
+(3) Sustainability impact. Approximately 70% energy reduction is a proof of ecological efficiency that is consistent with ESG goals."
+(4) System resilience. DECM returns 99% throughput within approx 95 s for +- 300% latency shocks compared to more than 240 s for
+Web 2.0 baselines.
+(5) Human-AI complementarity. Agentic supervision promotes transparency and auditability ensuring autonomy instead of obscure
+automation.
+4.9 The limitations and the boundary conditions.
+ΓÇó Synthetic simulations are approximations instead of real-world heterogeneity.
+ΓÇó Polygon Mumbai is having a lack of mainnet congestion and cross-chain latency.
+ΓÇó API-call latency was not monetized for Off-chain reasoning.
+ΓÇó In future, DECM research should further expand to cross-chain pilots and incorporate IoT telemetry to ESG correlation in real-time
+analytics.
+4.10 Section summary
+Here we are embedding Agentic AI as an orchestration layer for transforming fragmented Web 3.0 technologies into a self-optimizing
+commerce ecosystem.
+In five domains of efficiency, DECM achieves up to 70 % overall improvement which validates its architectural coherence, cognitive
+efficacy, and environmental dividends.
+The next section builds on these empirical results, develops a theoretical framework for adaptive efficiency, AI governed coordination and
+sustainable design for digital commerce.
+5 Results and Analysis
+Evaluating Efficiency, Cognitive Performance, and Sustainability of DECM Framework
+5.1 Experimental setup recap
+To access the operational performance of the Decentralized Efficiency Commerce Model (DECM), a controlled three-phase simulation was
+performed. Each phase consisted of 30 Monte Carlo replications each of 10000 transactions, under the same network conditions, with
+randomized seeds to make sure the comparability among the different phases (Table 7). Demand shocks of +-40% in the volume of transactions
+was injected every 500 transactions to test the resilience. The telemetry streams which include latency, gas consumption, governance status,
+trust indices, and energy consumption, were gathered through The Graph as well as stored on IPFS to ensure its auditability and reproducibility.
+Table 6 : Experimental Setup and Phase Configurations for DECM Evaluation
+Phase System Agents Network Average Duration
+Baseline Shopify API (centralized) None AWS us-east-1 30 runs ├ù 2.1 h
+DECM Full Polygon Mumbai + Agentic AI 200 (100 buyers + 100 sellers) PoS testnet 30 runs ├ù 1.4 h
+Ablation DECM without AI (rule-based bot) 200 Same 30 runs ├ù 1.6 h
+5.2 Efficiency measures and relative results
+Table 8 aggregates the five dimensions of efficiency i.e. transactional, computational, governance, cognitive, and environmental across
+3,00,000 transactions per phase.
+Table 7: Efficiency performance across phases (n=300000 across phases; all p<0.001)
+Dimension Metric Baseline DECM Full Ablation ╬ö (DECM vs Baseline) ╬ö (AI Impact)
+Transa ctional Latency (s) 2.81 ┬▒ 0.45 0.96 ┬▒ 0.18 1.52 ┬▒ 0.22 +65.9 % +36.8 %
+Cost (USD eq.) 0.042 ┬▒ 0.007 0.025 ┬▒ 0.004 0.032 ┬▒ 0.005 ΓêÆ40.5 % ΓêÆ21.9 %
+Comput ational CPU cycles (├ù10Γü╢) 8.4 ┬▒ 1.1 4.9 ┬▒ 0.6 5.8 ┬▒ 0.7 ΓêÆ41.7 % ΓêÆ15.5 %
+Memory (MB) 142 ┬▒ 18 86 ┬▒ 11 98 ┬▒ 13 ΓêÆ39.4 % ΓêÆ12.2 %
+Gover nance Verification time (s) 11.2 ┬▒ 1.8 7.6 ┬▒ 1.1 9.9 ┬▒ 1.6 +32.1 % +23.2 %
+Dispute rate (%) 3.8 1.1 2.4 ΓêÆ71.1 % ΓêÆ54.2 %
+Cogn itive Price deviation from Nash 0.27 ┬▒ 0.06 0.21 ┬▒ 0.05 0.24 ┬▒ 0.05 ΓêÆ22.2 % ΓêÆ12.5 %
+Negotiation rounds 5.8 ┬▒ 1.2 3.2 ┬▒ 0.7 4.1 ┬▒ 0.9 ΓêÆ44.8 % ΓêÆ21.9 %
+Environ mental Energy (Wh / tx) 0.58 ┬▒ 0.07 0.17 ┬▒ 0.02 0.20 ┬▒ 0.03 ΓêÆ70.6 % ΓêÆ15.0 %
+Carbon (gCOΓéé / tx) 0.24 ┬▒ 0.03 0.07 ┬▒ 0.01 0.08 ┬▒ 0.01 ΓêÆ70.8 % ΓêÆ12.5 %
+Interpretation - Transactional and environmental domains show the highest relative improvements which reaffirms the concept of
+decentralization combined with agentic-AI orchestration creates compounded systemic efficiency rather than isolated cost improvements.
+9
+
+================================================================================
+PAGE 10
+================================================================================
+Figure 5B - Multi-dimensional efficiency comparison (DECM vs Baseline and Impact of Artificial Intelligence)
+Each bar is a percentage gained over the baseline; neighbouring bars are used to isolate the marginal gain from agentic AI. Transactional and
+environmental metrics reveal the greatest synergies (66% and 71%), indicating the wider optimization of systems.
+5.3 Composite Efficiency Index (EI)
+Applying AHP-weighted model (Section 3.5) to all the dimensions resulted in the composite EI scores in Table 9.
+Table 8: Composite Efficiency Index (EI)
+Phase EI (Mean ┬▒ SD) ╬ö vs Baseline t(29) p CohenΓÇÖs d
+Baseline 0.46 ┬▒ 0.05 ΓÇô ΓÇô ΓÇô ΓÇô
+DECM Full 0.79 ┬▒ 0.04 +71.7 % 18.4 < 0.001 1.92
+Ablation 0.61 ┬▒ 0.05 +32.6 % 11.2 < 0.001 1.41
+Approximately 45% of the whole efficiency gain is due to Web 3.0 primitives, and 55-60% to Agentic AI orchestration.
+Figure 6 - Composite Efficiency Index across phases
+Bars represent mean EI +- 95 % confidence intervals. DECM Full is statistically significantly superior compared to baseline and ablation.
+5.4 Statistical validation and robustness
+The statistical soundness and strength of the program are also verified and need to be demonstrated in this section of the
+document.<|human|>Statistical soundness and robustness Within this section of the document, the statistical soundness and the strength of the
+program must be authenticated and demonstrated.
+Paired t-tests and Wilcoxon signed-rank tests found highly significant improvements for DECM Full for both configurations of comparison
+(p < 0.001). Post log-transformation (Shapiro-Wilk p > 0.05) normality assumptions were satisfied. Large effect sizes (Cohen's d = 1.41-1.92)
+are a reason to believe that not only is there statistical significance, but there is also a practical significance.
+During shocks of +-40% transaction volume, DECM recovered 99% throughput in 8 blocks (Γëê96 s) compared to 20 blocks (~240 s) for the
+baseline, - demonstrating adaptive resilience.
+To demonstrate such behaviour, results from a different +-300% latency shock experiment, which display throughput recovery trajectories
+for all setups, are shown (Figure 7).
+10
+
+================================================================================
+PAGE 11
+================================================================================
+Figure 7 System recovery from +-300% latency shock (time to 99% throughput)
+The DECM Full (AI) configuration demonstrates closed loop resilience by recovering 99% throughput within Γëê 95 s (8 blocks), more than 60%
+faster than the Web 2.0 baseline.
+This experiment confirms that Agentic AI turns resilience from a contingency into self-correction as a learned behaviour through telemetry-
+driven gas adjustment, routing, and batching.
+5.5 Analysis of the contribution of each layer
+Sequential layer removal tests were used to quantify the amount of marginal loss of efficiency and attribute each layerΓÇÖs contribution (Table
+10).
+Table 9: Effect of marginal efficiency from layer removal
+Removed Layer ╬ö EI % of Total Gain Lost
+Agentic AI ΓêÆ0.18 61 %
+DID + Semantics ΓêÆ0.09 30 %
+Tokenization ΓêÆ0.06 20 %
+Blockchain Layer ΓêÆ0.05 17 %
+Agentic AI becomes the dominant efficiency driver, accounting for more than half the total gain.
+5.6 Cognitive and governance dynamics
+Autonomous bargaining improved the latency by 41 % of price converging, while the approval time of DAO reduced from 94s to 64s using
+Snapshot voting in a parallelized manner. Price deviations from Nash equilibrium decreased steadily until convergence near the 6000th
+transaction and adaptive learning was confirmed.
+Figure 8 Cognitive deviation x transaction volume
+The DECM Full (AI) line shows a decay in error rate which is exponential, after about 6 000 transactions it starts to stabilize, and baseline
+and ablation stays flat, hence verifying closed loop cognition.
+5.7 Environmental and computational advantages
+Operation energy savings decreased by 70%, which is achieved by:
+1. Migration from proof of work to proof of stake consensus.
+2. Batch executing by ERC-1155 multi token Contracts.
+3. AI based scheduling that eliminated redundant calls.
+CPU and memory footprint decreased in proportion, proving that the computational economy is an emergent result of cognitive optimization.
+11
+
+================================================================================
+PAGE 12
+================================================================================
+Figure 9A - Comparative carbon-intensive Reduction (DECM Full vs Ablation vs Baseline)
+DECM Full curve exhibits a 70.8% carbon intensity (0.24 --->0.07g CO / tx) over 12 learning block; ablation plateaus Approx -15%,
+2
+Baseline remains constant.
+Figure 9B Average carbon intensity for each transaction (comparative summary)
+Bar chart between the mean carbon intensity of the different configurations; energy and carbon improvements are compatible with the
+optimization done with AI.
+5.8 Telemetry validation of feedback loop
+Average delay time of the telemetry is 12.4 +- 1.1 s (one block).
+Dynamic fee Caps self-adjusted 47 Time ( -18% mean gas reduction); Carbon thresholds automatically revised 31 Time, and 3 DAO policy
+votes were passed in 2 hours.
+These operations validate the real time closure of the six-stage feedback cycle introduced in Figure 5A validating the system's capacity to
+convert perception into policy autonomously.
+5.9 Integrated interpretation
+RQ 1 - Web 3.0 Contributions: Immutable ledgers, decentralized identities, semantic catalogues and tokenization all worked together to
+reduce the amount of latency and cost by verifiable, machine-readable transactions.
+RQ 2 - Role of Agentic AI: The Agentic AI layer was used as the cognitive conductor which interprets telemetry in real time and autonomously
+re balances system parameters. It brought static contracts to turn into self-correcting and context aware processes leading to improved outcomes
+in pricing and governance.
+RQ 3 - Sustainability of efficiency gains: The performance improvements were persistent under repeating and agonistic demand perturbations
+with +-40% demand perturbation suggests that the learning observed by DECM is structural and not transient.
+5.10 Key observations
+1. Efficiency is emergent ΓÇô Gains happens not from fixed parameters but from Iterative feedback and reinforcement.
+2. Open governance ensures trust - DID-based verification and public telemetry increased the degree of trust in actors by approx. 32%.
+3. Adaptive cognition is less waste - Learning reduced energy use and unnecessary calculation.
+4. The emphasis is on agentic AI - Removal of AI decreased efficiency by more than 30%, which was empirically confirmed to be
+orchestrating it.
+5.11 Summary
+Without the use of AI in all five efficiency domains, The DECM framework clearly outperforms Web 2.0 and Web 3.0 architectures. Empirical
+evidence shows approx. 65% reduction in latency and approx. 70% savings in energy. By embedding Agentic AI as a self-regulating cognitive
+layer, the efficiency task goes from a static metric to a continuously optimizing property.
+These findings lay out the foundation for a quantitative Foundation of Section 6 - Discussion and Implications, which sees dynamic efficiency
+as a new theoretical holding to occur at the intersection of cognitive governance, sustainability, and adaptive design of digital commerce.
+6 Discussion and Implications
+Reframing Dynamic Efficiency, Cognition and Sustainability in Decentralized Commerce
+6.1 Closure of the Research Questions
+The findings in Section 5 support the Decentralized Efficiency Commerce Model (DECM) with statistical evidence and conceptually.
+RQ1 - How do Web 3.0 primitives add to efficiency to digital commerce?
+Answer : Combined, emergent efficiency.
+Blockchain and tokenization combined to bring about a 65.9% and 40.5% reduction in latency and cost respectively. DID and semantic
+metadata increased governance by 32.1% and reduced the number of disputes by 71.1%. Even without AI (ablation), Web 3.0 primitives had
+a positive effect for about 45% of the total gain (Composite EI +32.6%). Decentralised infrastructure is thus required, but not enough to be
+self-sustaining efficiency.
+RQ2 - How does agentic AI play the role of orchestration layer?
+Answer: Cognitive conductor and adaptive middleware.
+Removing AI caused a loss of 0.18 (~61% of the total gain) of the Efficiency Index. Cognitive deviation stabilised at around the 6000th
+transactions when the learning loop converged. Price convergence increased by 41% and DAO approval time decreased to ~64 s. AI doesn't
+work as an add on in fact it acts as the "operating system" that transforms static protocols into a self-optimizing ecosystem.
+RQ3 - Are the gains in efficiency maintained under real life stress?
+Answer: Yes- Structurally Resilient and Learned.
+Under +- 40% demand shocks, DECM recovered 99% throughput in 96 estimated seconds (8 Blocks) compared to 240 estimated seconds
+(20+ Blocks) for the baseline. EI variance remained <3% for 30 replications. Carbon intensity converged within 12 learning blocks since the
+AI scheduler optimized the batch size and timing of the gas. Efficiency in DECM is a property which is learned by the system.
+6.2 Theorizing Dynamic Efficiency
+Classical views (e.g. Coase, 1937; Laudon and Traver, 2023) shows efficiency as a statical process of minimization:
+Efficiency=min(Cost, Latency, Risk)
+DECM retrieves efficiency as a control process that develops under feedback and learning.
+12
+
+================================================================================
+PAGE 13
+================================================================================
+Dynamic Efficiency = f(State_t, Feedback (t-1), Learning_t)
+Table 10 : Foundational Propositions of Dynamic Efficiency
+Proposition Empirical Evidence Conceptual Implication
+P1. Efficiency is emergent. Error rates decline with exposure and stabilize ~6,000 Architect for adaptation, not one-off
+tx (Fig. 8). optimization.
+P2. Cognition drives AI removal Γåô EI by 0.18 (~61%) (Table 10). Agentic AI is middleware, not a peripheral
+efficiency. assistant.
+P3. Feedback closes the loop. ~12.4 s telemetry cycle observed (Section 5.8). Real-time data fuels autonomy and policy
+correction.
+P4. Sustainability is co- ΓêÆ70% carbon via the same AI logic (Fig. 9). ESG performance emerges as a by-product of
+optimized. cognition.
+Figure 10 ┬╖ Dynamic Efficiency Control Loop.
+Agentic AI Perceives -> Reasons -> Acts, there is a feedback loop in which telemetry (latency, gas, carbon, trust) penetrates state variables
+and creates-self tuning-governance cycle, sustaining efficiency over time.
+6.3 Theoretical Contributions
+Table 11: Theoretical Contributions of the DECM Framework
+Contribution Novel Element Extends
+Dynamic Efficiency Theory Defines efficiency as a learning process with closed-loop From transaction-cost economics to adaptive
+correction. systems.
+Agentic AI as Layer-3 Positions AI as the cognitive operating system within Wooldridge (2024) ΓåÆ computational
+Middleware Web 3.0 stacks. architecture.
+Closed-Loop Commerce Empirical proof of a ~12.4 s telemetry cycle driving Chen et al. (2024) ΓåÆ cognitive feedback in
+governance updates. markets.
+Citable assertion (tempered with academic prudence):
+To our knowledge, DECM is the first empirically validated architecture to promote agentic AI from the outskirts of the assistant to a central
+orchestration layer that attributes more than 60% of multi-dimensional efficiency gains to telemetry-driven, self-learning governance.
+6.4 Practical and Industry Implications
+These recommendations take DECM's mechanisms and break them down into applicable policies for use by enterprise architects, standards
+groups and oversight bodies.
+Table 12: Practical and Industry Implications of the DECM Framework
+Stakeholder Actionable Insight
+E-commerce platforms Migrate from centralized middleware to a DECM-style stack to reduce fees (~40%) and carbon (~70%).
+Web 3.0 developers Use DECM as a reference architecture (Polygon PoS + agentic AI middleware + DID/semantics).
+Regulators Adopt telemetry dashboards for real-time market oversight, anomaly detection, and auditable policy
+updates.
+Sustainability auditors Leverage on-chain carbon logs for verifiable ESG assurance and automated attestations.
+DAOs / Governance Implement adaptive quorum logic to cut voting latency by ~30% while improving trust indices.
+bodies
+6.5 Limitations and Boundary Conditions
+Table 13: Limitations and Boundary Conditions of the DECM Framework
+Limitation Mitigation Strategy Future Research
+Simulation environment (Polygon 300k tx with shocks; reproducible tooling Mainnet pilots with live merchant cohorts.
+testnet)
+Rational-agent assumption Nash-based utilities; heterogeneous roles Behavioral agents (loss aversion, trust, risk).
+Network scale (~2,000 TPS) Controlled load-balancing experiments zkEVM / Arbitrum / L2 rollups stress tests.
+13
+
+================================================================================
+PAGE 14
+================================================================================
+AI explainability Logged chain-of-reasoning metadata ZK-ML proofs for verifiable decision logic.
+A little humility ΓÇô External validity will develop with production-graded deployments and human in the loop negotiation settings.
+6.6 Future Research Agenda
+Table 14 : Future Research Agenda for Advancing the DECM Framework
+Direction Research Question
+Cross-chain DECM How does dynamic efficiency behave across L2 rollups and bridge-latency regimes?
+HumanΓÇôAI hybrid negotiation Can co-piloting improve cognitive accuracy and perceived fairness?
+ESG-linked tokenomics Can verified carbon savings auto-mint green credits/NFT attestations?
+Zero-knowledge commerce Can ZK methods hide pricing while preserving market integrity and fairness?
+Global South deployment How does DECM perform under intermittent connectivity and price volatility?
+6.7 Synthesis and Section summary
+Taking into consideration all three research questions, DECM addresses them with theoretical and empirical coherence. Web 3.0 primitives
+form the structural foundation (approx. 45% of the gain), while agentic AI acts as an accelerator and cognitive governor (approx. 61% of the
+gain) aggregating to approx. 71.7% increase in the Composite Efficiency Index. When decentralization, education, and governance align,
+digital commerce transitions from a cost-cutting channel to a self-improving, sustainably intelligent ecosystem. We refer to this model as
+Dynamic Efficiency in Agentic Web 3.0 Commerce - a method for achieving autonomous yet accountable digital marketplaces
+7. Conclusion and Outlook
+Building on the theoretical framework of Dynamic Efficiency introduced in Section 6, the last section summarizes the contributions of DECM
+to a contemporary picture of Dynamic Efficiency, knowledgeable and promising pathways for research and implementation.
+The DECM is proof that the digital commerce can break the chains of centralized control and evolve into a self-optimizing, transparent and
+sustainable ecosystem. Grounded in Design Science Research, and validated via large scale Simulations, study confirms that Web 3.0 Primitive:
+Blockchain, Decentralized Identity, Semantic Interoperability and Tokenization constitute structural foundation for efficiency while Agentic
+AI functions as the cognitive conductor orchestrating adaptive behaviour across all layers.
+Empirical findings are decisive - 71.7% boost in Composite Efficiency Index, 65.9% less latency, 40.5% decrease in cost, 70.6% less energy
+usage per transaction with 61% of the total gains directly attributable to Autonomous learning. Most critically, efficiency within DECM is
+developed and not engineered. The 12.4-second telemetry-to-action loop (Section 5.8) is using the static infrastructure that would be turned
+into a learning organism that can continuously sense, reason and adjust itself within real-time.
+This evolution represents the appearance of the world paradigm of Dynamic Efficiency -where performance is determined by state, feedback
+and cognition and not by set designed parameters. As shown in Figure 10, through a feedback loop of perception, reasoning, action and
+telemetry, the system evolves through a cognitive cycle of maintaining balance between economic utility, governance trust and responsibility
+toward the environment.
+Citable Claim:
+To our knowledge, DECM is the first empirically validated architecture that promotes agentic AI from peripheral assistant to central
+orchestration middleware in Web 3.0, with over 60% of multi-dimensional efficiency gains through telemetry driven, self-learning governance.
+Roadmap for Web 3.0-Native Commerce
+In essence, DECM does not just make commerce better, it redefines it. The intersection of decentralization and cognition makes systems
+inherently efficient, trustworthy, and sustainable. The future of digital markets will not be based on centralized platforms and silos of
+blockchains but on smart, adaptable and accountable ecosystems.
+Table 15 : Roadmap for Web 3.0ΓÇôNative Commerce Deployment Using the DECM Framework
+Phase Action Expected Outcome
+1 ΓÇô Reference Release open-source DECM stack (Solidity + LangChain Immediate adoption by decentralized-
+Implementation + Polygon) under MIT license commerce developers
+Deploy with mid-tier marketplaces (10 kΓÇô100 k tx/day) Real-world validation of efficiency-index (EI)
+2 ΓÇô Enterprise Pilots
+gains
+Propose Dynamic Efficiency Index to W3C and UNECE Establish ESG-aligned performance
+3 ΓÇô Global Standards
+benchmarks for digital commerce
+This study sets the ground for that work and obviously the next stage is real world deployment and cross chain validation.
+Future research will be extending DECM towards human AI co negotiation frameworks and standardized Dynamic Efficiency metrics for
+multi-chain governance ecosystems.
+Disclosure of Interests. The authors have no competing interests to declare that are relevant to the content of this article.
+References
+Allen, C. (2016). The path to self-sovereign identity. Life With Alacrity. https://www.lifewithalacrity.com/2016/04/the-path-to-self-sovereign-
+identity.html
+Barab├ísi, A.-L. (2023). The formula: The universal laws of success (2nd ed.). Back Bay Books.
+Berners-Lee, T., Hendler, J., & Lassila, O. (2021). The semantic web revisited. Scientific American, 284(5), 34ΓÇô43.
+https://doi.org/10.1038/scientificamerican0501-34
+Buterin, V. (2014). A next-generation smart contract and decentralized application platform. Ethereum Foundation.
+https://ethereum.org/en/whitepaper/
+Chen, Y., Wang, T., & Liu, R. (2024). Blockchain-enabled logistics optimization: A multichain efficiency analysis. Journal of Supply Chain
+Systems, 29(2), 145ΓÇô163. https://doi.org/10.1016/j.jscs.2024.02.003
+Coase, R. H. (1937). The nature of the firm. Economica, 4(16), 386ΓÇô405. https://doi.org/10.1111/j.1468-0335.1937.tb00002.x
+Deloitte. (2025). Global blockchain adoption survey 2025. Deloitte Insights. https://www.deloitte.com
+EU Blockchain Observatory. (2024). Decentralized identity in cross-border commerce: Pilot study results. European Commission.
+https://blockchain-observatory.ec.europa.eu
+Gartner. (2024). Market share: Cloud infrastructure services, worldwide 2023. Gartner Research. https://www.gartner.com
+14
+
+================================================================================
+PAGE 15
+================================================================================
+Gregor, S., & Hevner, A. R. (2023). Positioning and presenting design science research for maximum impact. MIS Quarterly, 47(1), iΓÇôxviii.
+https://doi.org/10.25300/MISQ/2023/17000
+Gupta, R., Singh, K., & Verma, P. (2024). Smart-contract automation and real-time clearing in fintech systems. IEEE Access, 12, 11421ΓÇô11434.
+https://doi.org/10.1109/ACCESS.2024.3378456
+Hevner, A. R., March, S. T., Park, J., & Ram, S. (2004). Design science in information systems research. MIS Quarterly, 28(1), 75ΓÇô105.
+https://doi.org/10.2307/25148625
+Holland, J. H. (2014). Complex adaptive systems and the logic of emergence. Oxford University Press.
+IBM Security. (2025). Cost of a data breach report 2025. IBM Corporation. https://www.ibm.com/security/data-breach
+Laudon, K. C., & Traver, C. G. (2023). E-commerce 2023: Business, technology, society (19th ed.). Pearson Education.
+Lee, H., & Shin, D. (2025). Measuring sustainable efficiency in decentralized systems: Integrating energy and governance metrics. Information
+Systems Frontiers, 27(1), 55ΓÇô72. https://doi.org/10.1007/s10796-024-10311-2
+McKinsey & Company. (2025). Platform economics and digital transaction costs 2025. McKinsey Digital. https://www.mckinsey.com
+Nakamoto, S. (2008). Bitcoin: A peer-to-peer electronic cash system. https://bitcoin.org/bitcoin.pdf
+OΓÇÖReilly, T. (2005). What is Web 2.0? Design patterns and business models for the next generation of software. OΓÇÖReilly Media.
+https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html
+Peffers, K., Rothenberger, M., Tuunanen, T., & Vaezi, R. (2007). A design science research methodology for information systems research.
+Journal of Management Information Systems, 24(3), 45ΓÇô77. https://doi.org/10.2753/MIS0742-1222240302
+Reuters. (2024). Shopify outage hits merchants globally, losses top $112 million. Reuters Technology. https://www.reuters.com
+Russell, S., & Norvig, P. (2021). Artificial intelligence: A modern approach (4th ed.). Pearson.
+Sheikh, F., & Khan, M. (2023). Semantic annotation for intelligent digital marketplaces. Journal of Web Engineering, 22(4), 611ΓÇô633.
+https://doi.org/10.13052/jwe1540-9589.2244
+Statista. (2016). Amazon's share of U.S. e-commerce retail 2015. https://www.statista.com
+Statista. (2025). Global e-commerce statistics Q3 2025. https://www.statista.com
+Uniswap Labs. (2025). Uniswap v4 protocol documentation. https://docs.uniswap.org
+W3C. (2022). Decentralized identifiers (DID) v1.0: Core architecture, data model, and representations. World Wide Web Consortium.
+https://www.w3.org/TR/did-core/
+Wooldridge, M. (2024). The road to agentic artificial intelligence: Autonomy, reasoning, and ethics in multi-agent systems. Oxford University
+Press.
+Zhao, L., Nguyen, Q., & Patel, A. (2025). AI-driven orchestration in Web 3.0 marketplaces: Toward adaptive commerce networks. IEEE Access,
+13, 5210ΓÇô5224. https://doi.org/10.1109/ACCESS.2025.3456120
+15
