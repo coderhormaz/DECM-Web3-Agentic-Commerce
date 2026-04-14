@@ -1,0 +1,326 @@
+{
+  "baseline": {
+    "latency_s": {
+      "grand_mean": 2.808836670612878,
+      "grand_std": 0.004528909097747388,
+      "avg_within_std": 0.4499181912408063,
+      "min_mean": 2.802491578721497,
+      "max_mean": 2.819167853791756
+    },
+    "cost_usd": {
+      "grand_mean": 0.042001133438195073,
+      "grand_std": 5.052248881276078e-05,
+      "avg_within_std": 0.006992030249128864,
+      "min_mean": 0.041909106682808624,
+      "max_mean": 0.04212714607823627
+    },
+    "cpu_cycles": {
+      "grand_mean": 8.396654565591218,
+      "grand_std": 0.01155012871161789,
+      "avg_within_std": 1.099053014583839,
+      "min_mean": 8.374408089542156,
+      "max_mean": 8.416025570361944
+    },
+    "memory_mb": {
+      "grand_mean": 141.94616702897528,
+      "grand_std": 0.16539053018458086,
+      "avg_within_std": 18.00392604523462,
+      "min_mean": 141.59953409999957,
+      "max_mean": 142.33103582872516
+    },
+    "verification_s": {
+      "grand_mean": 11.19758540751561,
+      "grand_std": 0.018144607204333908,
+      "avg_within_std": 1.7992324474749914,
+      "min_mean": 11.14907324317254,
+      "max_mean": 11.221790234472559
+    },
+    "price_deviation": {
+      "grand_mean": 0.2699742370939607,
+      "grand_std": 0.0006570505052082717,
+      "avg_within_std": 0.06003114613703534,
+      "min_mean": 0.26882952047652814,
+      "max_mean": 0.27179916025254947
+    },
+    "negotiation_rounds": {
+      "grand_mean": 5.29975,
+      "grand_std": 0.01366752233093725,
+      "avg_within_std": 1.2337889219517462,
+      "min_mean": 5.2732,
+      "max_mean": 5.3334
+    },
+    "energy_wh": {
+      "grand_mean": 0.5801303427074145,
+      "grand_std": 0.0008363674479349876,
+      "avg_within_std": 0.06993508426837529,
+      "min_mean": 0.5780822225925002,
+      "max_mean": 0.5819084894689551
+    },
+    "carbon_gco2": {
+      "grand_mean": 0.24006738865684626,
+      "grand_std": 0.00030407203510645156,
+      "avg_within_std": 0.029974516123984322,
+      "min_mean": 0.23960613221039775,
+      "max_mean": 0.24078674188097776
+    },
+    "dispute_rate": {
+      "grand_mean": 0.03813333333333333,
+      "grand_std": 0.0012647353697732803
+    },
+    "n_runs": 30,
+    "improvements_vs_baseline": {
+      "latency_s": 0.0,
+      "cost_usd": 0.0,
+      "cpu_cycles": 0.0,
+      "memory_mb": 0.0,
+      "verification_s": 0.0,
+      "price_deviation": 0.0,
+      "negotiation_rounds": 0.0,
+      "energy_wh": 0.0,
+      "carbon_gco2": 0.0
+    }
+  },
+  "decm_full": {
+    "latency_s": {
+      "grand_mean": 0.49931601408868764,
+      "grand_std": 0.003932325961732486,
+      "avg_within_std": 0.39870839181851886,
+      "min_mean": 0.48927741674322567,
+      "max_mean": 0.5081284767050458
+    },
+    "cost_usd": {
+      "grand_mean": 0.012000191639333331,
+      "grand_std": 2.0510079822978565e-05,
+      "avg_within_std": 0.00199721661519786,
+      "min_mean": 0.01195963758,
+      "max_mean": 0.01204386704
+    },
+    "cpu_cycles": {
+      "grand_mean": 105.3125,
+      "grand_std": 12.88217841955829,
+      "avg_within_std": 1277.8915485810019,
+      "min_mean": 81.25,
+      "max_mean": 129.6875
+    },
+    "memory_mb": {
+      "grand_mean": 2.500964392255017,
+      "grand_std": 0.01843922991293474,
+      "avg_within_std": 1.4438795965660072,
+      "min_mean": 2.4696432623602353,
+      "max_mean": 2.546039851236973
+    },
+    "verification_s": {
+      "grand_mean": 0.6488718023106449,
+      "grand_std": 0.0034232529653075564,
+      "avg_within_std": 0.3504006194031065,
+      "min_mean": 0.6389393863283099,
+      "max_mean": 0.6574178254350057
+    },
+    "price_deviation": {
+      "grand_mean": 0.010602650666666666,
+      "grand_std": 5.9582607637538545e-05,
+      "avg_within_std": 0.0455307290933528,
+      "min_mean": 0.01048024,
+      "max_mean": 0.010704509999999999
+    },
+    "negotiation_rounds": {
+      "grand_mean": 1.22616,
+      "grand_std": 0.005009630724913758,
+      "avg_within_std": 1.182341648562016,
+      "min_mean": 1.2125,
+      "max_mean": 1.2352
+    },
+    "energy_wh": {
+      "grand_mean": 0.019200019163933334,
+      "grand_std": 2.051007982297832e-06,
+      "avg_within_std": 0.00019972166151978606,
+      "min_mean": 0.019195963758,
+      "max_mean": 0.019204386704
+    },
+    "carbon_gco2": {
+      "grand_mean": 0.007680007665573335,
+      "grand_std": 8.204031929190375e-07,
+      "avg_within_std": 7.988866460791442e-05,
+      "min_mean": 0.007678385503199999,
+      "max_mean": 0.007681754681599999
+    },
+    "dispute_rate": {
+      "grand_mean": 0.011539999999999998,
+      "grand_std": 0.0010170545708072893
+    },
+    "n_runs": 30,
+    "improvements_vs_baseline": {
+      "latency_s": 82.22338737909818,
+      "cost_usd": 71.42888618234153,
+      "cpu_cycles": -1154.2197511799727,
+      "memory_mb": 98.2380895204134,
+      "verification_s": 94.20525248349404,
+      "price_deviation": 96.07271761157841,
+      "negotiation_rounds": 76.86381433086467,
+      "energy_wh": 96.690395631725,
+      "carbon_gco2": 96.8008950701125
+    }
+  },
+  "ablation_no_ai": {
+    "latency_s": {
+      "grand_mean": 0.8003803171739469,
+      "grand_std": 0.00611283514183518,
+      "avg_within_std": 0.6414975481057227,
+      "min_mean": 0.7875421441882141,
+      "max_mean": 0.8124895445101794
+    },
+    "cost_usd": {
+      "grand_mean": 0.011999870629333333,
+      "grand_std": 1.5949513508100285e-05,
+      "avg_within_std": 0.0019994289664839416,
+      "min_mean": 0.01196098805,
+      "max_mean": 0.012031546689999999
+    },
+    "cpu_cycles": {
+      "grand_mean": 63.333333333333336,
+      "grand_std": 11.564845858126352,
+      "avg_within_std": 988.719677290597,
+      "min_mean": 39.0625,
+      "max_mean": 100.0
+    },
+    "memory_mb": {
+      "grand_mean": 2.503661132173314,
+      "grand_std": 0.01873647600228545,
+      "avg_within_std": 1.4436390514323705,
+      "min_mean": 2.470852956010571,
+      "max_mean": 2.5382398209544945
+    },
+    "verification_s": {
+      "grand_mean": 0.6504052254788546,
+      "grand_std": 0.003267918925213842,
+      "avg_within_std": 0.35194473898845857,
+      "min_mean": 0.6422787835417495,
+      "max_mean": 0.6574013850165935
+    },
+    "price_deviation": {
+      "grand_mean": 0.52263284,
+      "grand_std": 0.0,
+      "avg_within_std": 0.3613530861353399,
+      "min_mean": 0.52263284,
+      "max_mean": 0.52263284
+    },
+    "negotiation_rounds": {
+      "grand_mean": 4.500416666666666,
+      "grand_std": 0.010921571417255931,
+      "avg_within_std": 1.0395839408577308,
+      "min_mean": 4.4714,
+      "max_mean": 4.5241
+    },
+    "energy_wh": {
+      "grand_mean": 0.019199987062933334,
+      "grand_std": 1.5949513508101598e-06,
+      "avg_within_std": 0.00019994289664839414,
+      "min_mean": 0.019196098804999995,
+      "max_mean": 0.019203154668999998
+    },
+    "carbon_gco2": {
+      "grand_mean": 0.007679994825173334,
+      "grand_std": 6.3798054032409e-07,
+      "avg_within_std": 7.997715865935768e-05,
+      "min_mean": 0.007678439521999999,
+      "max_mean": 0.0076812618676
+    },
+    "dispute_rate": {
+      "grand_mean": 0.02994,
+      "grand_std": 0.0015660140484682764
+    },
+    "n_runs": 30,
+    "improvements_vs_baseline": {
+      "latency_s": 71.50491783492322,
+      "cost_usd": 71.42965047123975,
+      "cpu_cycles": -654.2686535286088,
+      "memory_mb": 98.23618968755792,
+      "verification_s": 94.19155825288624,
+      "price_deviation": -93.58619015862061,
+      "negotiation_rounds": 15.08247244366874,
+      "energy_wh": 96.69040116513665,
+      "carbon_gco2": 96.80090041877733
+    }
+  },
+  "ablation_rule": {
+    "latency_s": {
+      "grand_mean": 0.6517441350167245,
+      "grand_std": 0.005073611558384331,
+      "avg_within_std": 0.5209570906835514,
+      "min_mean": 0.6442032104703247,
+      "max_mean": 0.6614362376332379
+    },
+    "cost_usd": {
+      "grand_mean": 0.012001306421666663,
+      "grand_std": 1.9067315140427133e-05,
+      "avg_within_std": 0.001998807730878535,
+      "min_mean": 0.01196043936,
+      "max_mean": 0.012040277709999998
+    },
+    "cpu_cycles": {
+      "grand_mean": 91.97916666666667,
+      "grand_std": 9.337889512922905,
+      "avg_within_std": 1195.7724623613967,
+      "min_mean": 70.3125,
+      "max_mean": 107.8125
+    },
+    "memory_mb": {
+      "grand_mean": 2.499514428853884,
+      "grand_std": 0.01254396618762899,
+      "avg_within_std": 1.4441277268035055,
+      "min_mean": 2.4739586592505924,
+      "max_mean": 2.5244571256505433
+    },
+    "verification_s": {
+      "grand_mean": 0.65095722599459,
+      "grand_std": 0.003240766482524836,
+      "avg_within_std": 0.35167246047581496,
+      "min_mean": 0.6456132076317451,
+      "max_mean": 0.658284956108027
+    },
+    "price_deviation": {
+      "grand_mean": 0.010598545000000003,
+      "grand_std": 4.026480769025631e-05,
+      "avg_within_std": 0.04555970074888442,
+      "min_mean": 0.01048166,
+      "max_mean": 0.01067217
+    },
+    "negotiation_rounds": {
+      "grand_mean": 3.6008866666666663,
+      "grand_std": 0.009597247290528452,
+      "avg_within_std": 1.0384324199367378,
+      "min_mean": 3.578,
+      "max_mean": 3.6184
+    },
+    "energy_wh": {
+      "grand_mean": 0.01920013064216666,
+      "grand_std": 1.9067315140424313e-06,
+      "avg_within_std": 0.00019988077308785352,
+      "min_mean": 0.019196043936000003,
+      "max_mean": 0.019204027771
+    },
+    "carbon_gco2": {
+      "grand_mean": 0.007680052256866667,
+      "grand_std": 7.626926056170883e-07,
+      "avg_within_std": 7.995230923514141e-05,
+      "min_mean": 0.0076784175744,
+      "max_mean": 0.0076816111083999996
+    },
+    "dispute_rate": {
+      "grand_mean": 0.019776666666666665,
+      "grand_std": 0.0015076877071271164
+    },
+    "n_runs": 30,
+    "improvements_vs_baseline": {
+      "latency_s": 76.7966524420761,
+      "cost_usd": 71.42623201031788,
+      "cpu_cycles": -995.4263504371078,
+      "memory_mb": 98.23911100865186,
+      "verification_s": 94.1866286140789,
+      "price_deviation": 96.07423837397072,
+      "negotiation_rounds": 32.05553721087474,
+      "energy_wh": 96.69037641565835,
+      "carbon_gco2": 96.80087649562242
+    }
+  }
+}

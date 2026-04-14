@@ -1,0 +1,43 @@
+Comparison,Metric,Mean A,Mean B,t-statistic,p-value (t),Significant (t),Wilcoxon p,Cohen's d,Effect Size
+Baseline vs DECM Full,latency_s,2.808837,0.499316,1893.3716,0.00000000,True,0.00000000,345.6808,large
+Baseline vs DECM Full,cost_usd,0.042001,0.012000,3359.7229,0.00000000,True,0.00000000,613.3987,large
+Baseline vs DECM Full,carbon_gco2,0.240067,0.007680,4114.9671,0.00000000,True,0.00000000,751.2868,large
+Baseline vs DECM Full,verification_s,11.197585,0.648872,3253.7043,0.00000000,True,0.00000000,594.0424,large
+Baseline vs DECM Full,price_deviation,0.269974,0.010603,2146.2219,0.00000000,True,0.00000000,391.8447,large
+Baseline vs DECM Full,negotiation_rounds,5.299750,1.226160,1578.4150,0.00000000,True,0.00000000,288.1778,large
+Baseline vs DECM Full,energy_wh,0.580130,0.019200,3610.0506,0.00000000,True,0.00000000,659.1020,large
+Baseline vs Ablation (No AI),latency_s,2.808837,0.800380,1519.0971,0.00000000,True,0.00000000,277.3479,large
+Baseline vs Ablation (No AI),cost_usd,0.042001,0.012000,2902.0592,0.00000000,True,0.00000000,529.8411,large
+Baseline vs Ablation (No AI),carbon_gco2,0.240067,0.007680,4113.9147,0.00000000,True,0.00000000,751.0946,large
+Baseline vs Ablation (No AI),verification_s,11.197585,0.650405,3127.7423,0.00000000,True,0.00000000,571.0450,large
+Baseline vs Ablation (No AI),price_deviation,0.269974,0.522633,-2070.7818,0.00000000,True,0.00000000,-378.0713,large
+Baseline vs Ablation (No AI),negotiation_rounds,5.299750,4.500417,277.0672,0.00000000,True,0.00000173,50.5853,large
+Baseline vs Ablation (No AI),energy_wh,0.580130,0.019200,3610.4357,0.00000000,True,0.00000000,659.1723,large
+Baseline vs Ablation (Rule),latency_s,2.808837,0.651744,1723.6772,0.00000000,True,0.00000000,314.6990,large
+Baseline vs Ablation (Rule),cost_usd,0.042001,0.012001,2826.9456,0.00000000,True,0.00000000,516.1273,large
+Baseline vs Ablation (Rule),carbon_gco2,0.240067,0.007680,4116.4083,0.00000000,True,0.00000000,751.5499,large
+Baseline vs Ablation (Rule),verification_s,11.197585,0.650957,3217.0679,0.00000000,True,0.00000000,587.3535,large
+Baseline vs Ablation (Rule),price_deviation,0.269974,0.010599,2134.3101,0.00000000,True,0.00000000,389.6699,large
+Baseline vs Ablation (Rule),negotiation_rounds,5.299750,3.600887,556.7411,0.00000000,True,0.00000000,101.6466,large
+Baseline vs Ablation (Rule),energy_wh,0.580130,0.019200,3610.2795,0.00000000,True,0.00000000,659.1438,large
+Ablation (No AI) vs DECM Full,latency_s,0.800380,0.499316,207.6680,0.00000000,True,0.00000000,37.9148,large
+Ablation (No AI) vs DECM Full,cost_usd,0.012000,0.012000,-0.0702,0.94449724,False,0.93539867,-0.0128,negligible
+Ablation (No AI) vs DECM Full,carbon_gco2,0.007680,0.007680,-0.0702,0.94449724,False,0.93539867,-0.0128,negligible
+Ablation (No AI) vs DECM Full,verification_s,0.650405,0.648872,1.5842,0.12399940,False,0.08032736,0.2892,small
+Ablation (No AI) vs DECM Full,price_deviation,0.522633,0.010603,46278.0510,0.00000000,True,0.00000000,8449.1773,large
+Ablation (No AI) vs DECM Full,negotiation_rounds,4.500417,1.226160,1521.4922,0.00000000,True,0.00000000,277.7852,large
+Ablation (No AI) vs DECM Full,energy_wh,0.019200,0.019200,-0.0702,0.94449724,False,0.93539867,-0.0128,negligible
+Ablation (Rule) vs DECM Full,latency_s,0.651744,0.499316,127.1454,0.00000000,True,0.00000000,23.2135,large
+Ablation (Rule) vs DECM Full,cost_usd,0.012001,0.012000,0.2064,0.83794722,False,0.74565467,0.0377,negligible
+Ablation (Rule) vs DECM Full,carbon_gco2,0.007680,0.007680,0.2064,0.83794722,False,0.74565467,0.0377,negligible
+Ablation (Rule) vs DECM Full,verification_s,0.650957,0.648872,2.4933,0.01861224,True,0.01204762,0.4552,small
+Ablation (Rule) vs DECM Full,price_deviation,0.010599,0.010603,-0.3510,0.72810570,False,0.76106547,-0.0641,negligible
+Ablation (Rule) vs DECM Full,negotiation_rounds,3.600887,1.226160,1022.3028,0.00000000,True,0.00000173,186.6461,large
+Ablation (Rule) vs DECM Full,energy_wh,0.019200,0.019200,0.2064,0.83794722,False,0.74565467,0.0377,negligible
+Ablation (No AI) vs Ablation (Rule),latency_s,0.800380,0.651744,108.8951,0.00000000,True,0.00000000,19.8814,large
+Ablation (No AI) vs Ablation (Rule),cost_usd,0.012000,0.012001,-0.2965,0.76898453,False,0.88719481,-0.0541,negligible
+Ablation (No AI) vs Ablation (Rule),carbon_gco2,0.007680,0.007680,-0.2965,0.76898453,False,0.88719481,-0.0541,negligible
+Ablation (No AI) vs Ablation (Rule),verification_s,0.650405,0.650957,-0.7135,0.48124077,False,0.54252794,-0.1303,negligible
+Ablation (No AI) vs Ablation (Rule),price_deviation,0.522633,0.010599,68481.3668,0.00000000,True,0.00000000,12502.9295,large
+Ablation (No AI) vs Ablation (Rule),negotiation_rounds,4.500417,3.600887,338.4175,0.00000000,True,0.00000000,61.7863,large
+Ablation (No AI) vs Ablation (Rule),energy_wh,0.019200,0.019200,-0.2965,0.76898453,False,0.88719481,-0.0541,negligible

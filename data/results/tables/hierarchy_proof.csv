@@ -1,0 +1,8 @@
+Metric,Phase 1 (Baseline),Phase 3a (No AI),Phase 3b (Rule),Phase 2 (DECM),P1 > P3,P3 > P2,Full Order,Improvement,p-value,Significant
+latency_s,2.808837,0.800380,0.651744,0.499316,True,True,True,+82.2%,0.00000000,True
+cost_usd,0.042001,0.012000,0.012001,0.012000,True,False,False,+71.4%,0.00000000,True
+carbon_gco2,0.240067,0.007680,0.007680,0.007680,True,False,False,+96.8%,0.00000000,True
+verification_s,11.197585,0.650405,0.650957,0.648872,True,True,True,+94.2%,0.00000000,True
+negotiation_rounds,5.299750,4.500417,3.600887,1.226160,True,True,True,+76.9%,0.00000000,True
+price_deviation,0.269974,0.522633,0.010599,0.010603,False,False,False,+96.1%,0.00000000,True
+energy_wh,0.580130,0.019200,0.019200,0.019200,True,False,False,+96.7%,0.00000000,True

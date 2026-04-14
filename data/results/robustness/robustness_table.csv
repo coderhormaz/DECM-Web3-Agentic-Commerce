@@ -1,0 +1,6 @@
+Scenario,Description,DECM Latency (s),Baseline Latency (s),DECM Cost ($),Baseline Cost ($),Metrics Won,DECM Superior
+latency_spike_300pct,±300% latency spikes injected every 200 tx,0.698,2.815,0.0120,0.0419,5/5,True
+agent_dropout_20pct,20% of agents randomly drop out mid-simulation,0.494,2.815,0.0121,0.0419,5/5,True
+agent_dropout_50pct,50% of agents randomly drop out mid-simulation,0.497,2.815,0.0120,0.0419,5/5,True
+demand_extreme,Extreme demand shocks: ±80% every 250 tx,0.507,2.815,0.0120,0.0419,5/5,True
+combined_stress,Combined: 300% latency + 20% dropout + extreme demand,0.683,2.815,0.0121,0.0419,5/5,True

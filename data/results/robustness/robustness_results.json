@@ -1,0 +1,284 @@
+{
+  "latency_spike_300pct": {
+    "scenario": "latency_spike_300pct",
+    "config": {
+      "description": "\u00b1300% latency spikes injected every 200 tx",
+      "latency_multiplier_range": [
+        1.0,
+        4.0
+      ],
+      "spike_interval": 200,
+      "spike_duration": 50
+    },
+    "n_tx": 2000,
+    "baseline": {
+      "latency_s": 2.815256724117505,
+      "cost_usd": 0.041863757199073544,
+      "carbon_gco2": 0.24142176445389885
+    },
+    "decm": {
+      "latency_s": 0.6979317684159986,
+      "cost_usd": 0.01199957975,
+      "carbon_gco2": 0.00767998319
+    },
+    "comparisons": {
+      "latency_s": {
+        "baseline": 2.815256724117505,
+        "decm_stressed": 0.6979317684159986,
+        "improvement_pct": 75.20894764456061,
+        "decm_better": "True"
+      },
+      "cost_usd": {
+        "baseline": 0.041863757199073544,
+        "decm_stressed": 0.01199957975,
+        "improvement_pct": 71.33659147472422,
+        "decm_better": "True"
+      },
+      "carbon_gco2": {
+        "baseline": 0.24142176445389885,
+        "decm_stressed": 0.00767998319,
+        "improvement_pct": 96.81885218287081,
+        "decm_better": "True"
+      },
+      "verification_s": {
+        "baseline": 11.167125660377367,
+        "decm_stressed": 0.9131660098719392,
+        "improvement_pct": 91.82273005924893,
+        "decm_better": "True"
+      },
+      "negotiation_rounds": {
+        "baseline": 5.307,
+        "decm_stressed": 1.0,
+        "improvement_pct": 81.15696250235538,
+        "decm_better": "True"
+      }
+    },
+    "decm_wins": 5,
+    "total_checks": 5,
+    "decm_superior": true
+  },
+  "agent_dropout_20pct": {
+    "scenario": "agent_dropout_20pct",
+    "config": {
+      "description": "20% of agents randomly drop out mid-simulation",
+      "dropout_rate": 0.2,
+      "dropout_after_tx": 2000
+    },
+    "n_tx": 2000,
+    "baseline": {
+      "latency_s": 2.815256724117505,
+      "cost_usd": 0.041863757199073544,
+      "carbon_gco2": 0.24142176445389885
+    },
+    "decm": {
+      "latency_s": 0.493943909896693,
+      "cost_usd": 0.01206373535,
+      "carbon_gco2": 0.0076825494139999995
+    },
+    "comparisons": {
+      "latency_s": {
+        "baseline": 2.815256724117505,
+        "decm_stressed": 0.493943909896693,
+        "improvement_pct": 82.4547471758005,
+        "decm_better": "True"
+      },
+      "cost_usd": {
+        "baseline": 0.041863757199073544,
+        "decm_stressed": 0.01206373535,
+        "improvement_pct": 71.18334292683369,
+        "decm_better": "True"
+      },
+      "carbon_gco2": {
+        "baseline": 0.24142176445389885,
+        "decm_stressed": 0.0076825494139999995,
+        "improvement_pct": 96.81778921988327,
+        "decm_better": "True"
+      },
+      "verification_s": {
+        "baseline": 11.167125660377367,
+        "decm_stressed": 0.6481593184314963,
+        "improvement_pct": 94.19582676739044,
+        "decm_better": "True"
+      },
+      "negotiation_rounds": {
+        "baseline": 5.307,
+        "decm_stressed": 4.579,
+        "improvement_pct": 13.717731298285296,
+        "decm_better": "True"
+      }
+    },
+    "decm_wins": 5,
+    "total_checks": 5,
+    "decm_superior": true
+  },
+  "agent_dropout_50pct": {
+    "scenario": "agent_dropout_50pct",
+    "config": {
+      "description": "50% of agents randomly drop out mid-simulation",
+      "dropout_rate": 0.5,
+      "dropout_after_tx": 2000
+    },
+    "n_tx": 2000,
+    "baseline": {
+      "latency_s": 2.815256724117505,
+      "cost_usd": 0.041863757199073544,
+      "carbon_gco2": 0.24142176445389885
+    },
+    "decm": {
+      "latency_s": 0.4965844292756517,
+      "cost_usd": 0.0120416498,
+      "carbon_gco2": 0.007681665991999999
+    },
+    "comparisons": {
+      "latency_s": {
+        "baseline": 2.815256724117505,
+        "decm_stressed": 0.4965844292756517,
+        "improvement_pct": 82.36095397547393,
+        "decm_better": "True"
+      },
+      "cost_usd": {
+        "baseline": 0.041863757199073544,
+        "decm_stressed": 0.0120416498,
+        "improvement_pct": 71.23609870289788,
+        "decm_better": "True"
+      },
+      "carbon_gco2": {
+        "baseline": 0.24142176445389885,
+        "decm_stressed": 0.007681665991999999,
+        "improvement_pct": 96.81815514463823,
+        "decm_better": "True"
+      },
+      "verification_s": {
+        "baseline": 11.167125660377367,
+        "decm_stressed": 0.6485406282073998,
+        "improvement_pct": 94.19241219333173,
+        "decm_better": "True"
+      },
+      "negotiation_rounds": {
+        "baseline": 5.307,
+        "decm_stressed": 1.0,
+        "improvement_pct": 81.15696250235538,
+        "decm_better": "True"
+      }
+    },
+    "decm_wins": 5,
+    "total_checks": 5,
+    "decm_superior": true
+  },
+  "demand_extreme": {
+    "scenario": "demand_extreme",
+    "config": {
+      "description": "Extreme demand shocks: \u00b180% every 250 tx",
+      "shock_magnitude": 0.8,
+      "shock_interval": 250
+    },
+    "n_tx": 2000,
+    "baseline": {
+      "latency_s": 2.815256724117505,
+      "cost_usd": 0.041863757199073544,
+      "carbon_gco2": 0.24142176445389885
+    },
+    "decm": {
+      "latency_s": 0.5065212342189752,
+      "cost_usd": 0.01199930435,
+      "carbon_gco2": 0.0076799721739999995
+    },
+    "comparisons": {
+      "latency_s": {
+        "baseline": 2.815256724117505,
+        "decm_stressed": 0.5065212342189752,
+        "improvement_pct": 82.00799131817175,
+        "decm_better": "True"
+      },
+      "cost_usd": {
+        "baseline": 0.041863757199073544,
+        "decm_stressed": 0.01199930435,
+        "improvement_pct": 71.33724932298827,
+        "decm_better": "True"
+      },
+      "carbon_gco2": {
+        "baseline": 0.24142176445389885,
+        "decm_stressed": 0.0076799721739999995,
+        "improvement_pct": 96.8188567458397,
+        "decm_better": "True"
+      },
+      "verification_s": {
+        "baseline": 11.167125660377367,
+        "decm_stressed": 0.6531685343336237,
+        "improvement_pct": 94.15096996131096,
+        "decm_better": "True"
+      },
+      "negotiation_rounds": {
+        "baseline": 5.307,
+        "decm_stressed": 2.2445,
+        "improvement_pct": 57.706802336536654,
+        "decm_better": "True"
+      }
+    },
+    "decm_wins": 5,
+    "total_checks": 5,
+    "decm_superior": true
+  },
+  "combined_stress": {
+    "scenario": "combined_stress",
+    "config": {
+      "description": "Combined: 300% latency + 20% dropout + extreme demand",
+      "latency_multiplier_range": [
+        1.0,
+        4.0
+      ],
+      "spike_interval": 200,
+      "spike_duration": 50,
+      "dropout_rate": 0.2,
+      "dropout_after_tx": 2000,
+      "shock_magnitude": 0.8,
+      "shock_interval": 250
+    },
+    "n_tx": 2000,
+    "baseline": {
+      "latency_s": 2.815256724117505,
+      "cost_usd": 0.041863757199073544,
+      "carbon_gco2": 0.24142176445389885
+    },
+    "decm": {
+      "latency_s": 0.683331855070398,
+      "cost_usd": 0.0120545162,
+      "carbon_gco2": 0.007682180647999999
+    },
+    "comparisons": {
+      "latency_s": {
+        "baseline": 2.815256724117505,
+        "decm_stressed": 0.683331855070398,
+        "improvement_pct": 75.72754735948278,
+        "decm_better": "True"
+      },
+      "cost_usd": {
+        "baseline": 0.041863757199073544,
+        "decm_stressed": 0.0120545162,
+        "improvement_pct": 71.20536471994737,
+        "decm_better": "True"
+      },
+      "carbon_gco2": {
+        "baseline": 0.24142176445389885,
+        "decm_stressed": 0.007682180647999999,
+        "improvement_pct": 96.81794196750353,
+        "decm_better": "True"
+      },
+      "verification_s": {
+        "baseline": 11.167125660377367,
+        "decm_stressed": 0.8970322926112019,
+        "improvement_pct": 91.96720517085245,
+        "decm_better": "True"
+      },
+      "negotiation_rounds": {
+        "baseline": 5.307,
+        "decm_stressed": 1.0,
+        "improvement_pct": 81.15696250235538,
+        "decm_better": "True"
+      }
+    },
+    "decm_wins": 5,
+    "total_checks": 5,
+    "decm_superior": true
+  }
+}

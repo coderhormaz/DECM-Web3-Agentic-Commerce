@@ -1,0 +1,6 @@
+Metric,Monad Testnet,Polygon Mumbai (Paper),Difference (%),Monad Better
+Transaction Latency (s),0.499316,0.820000,-39.1%,True
+Cost per Transaction ($),0.012000,0.014000,-14.3%,True
+Carbon Footprint (gCO2),0.007680,0.013000,-40.9%,True
+Verification Time (s),0.648872,1.400000,-53.7%,True
+Negotiation Rounds,1.226160,2.300000,-46.7%,True
