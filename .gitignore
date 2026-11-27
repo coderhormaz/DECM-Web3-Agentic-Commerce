@@ -1,6 +1,7 @@
 node_modules/
 cache/
 artifacts/
+.env
 
 __pycache__/
 *.pyc
